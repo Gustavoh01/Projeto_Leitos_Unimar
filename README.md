@@ -2,22 +2,22 @@
 
 ## Sobre o Projeto
 
-Nome: [Nome do Projeto]
+Nome: Automação de Leitos 
 
-[Descrição breve do projeto, seu propósito e funcionalidades principais]
+visa otimizar a gestão de leitos, melhorar o atendimento ao paciente e a eficiência operacional do hospital. A automação pode envolver sistemas de gestão de leitos, aplicativos para pacientes, monitoramento remoto e sistemas de controle de acesso e segurança. 
 
 ## Equipe
 
-- [Nome do Membro 1] - [Papel/Responsabilidade]
-- [Nome do Membro 2] - [Papel/Responsabilidade]
-- [Nome do Membro 3] - [Papel/Responsabilidade]
+- Davi Lucas - Backend/Responsavel pelas mudanças do sistema
+- Ruan Padilha - FrontEnd/Responsavel pela organização e esquematizaçao do projeto
+- Gustavo Henrique - Lider/ auxilia e gerencia a esquematizaçao do projeto
 - [Nome do Membro n] - [Papel/Responsabilidade]
 
 ## Tecnologias Utilizadas
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
+- Visual Studio Code
+- Jira
+- GitHub
 
 ## Estrutura do Repositório
 
