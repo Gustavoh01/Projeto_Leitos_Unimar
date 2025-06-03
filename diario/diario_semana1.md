@@ -27,7 +27,7 @@
 
 **Artefatos produzidos:**
 
-- Arquivo da Visão do Projeto - [Localização a definir]
+- Arquivo da Visão do Projeto - 
 
 **Distribuição de tarefas:**
 
@@ -80,5 +80,3 @@
 - Escolher o tema do projeto
 
 ### Registros Visuais
-
-[Espaço reservado para capturas de tela, fotos de diagramas ou outros registros visuais relevantes]
