@@ -60,6 +60,7 @@ O sistema adota o modelo **MVC**:
 
 ### 4.2 Diagramas
 
+```mermaid
 classDiagram
     Leito <|-- Cliente
     Leito <|-- Medico
@@ -118,6 +119,7 @@ classDiagram
       +Float Turno
       +Consultar()
     }
+```
 
 ### 4.3 Decisões de Design
 
