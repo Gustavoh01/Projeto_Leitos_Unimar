@@ -10,8 +10,10 @@ visa otimizar a gestão de leitos, melhorar o atendimento ao paciente e a efici�
 
 - Davi Lucas - Backend/Responsavel pelas mudanças do sistema
 - Ruan Padilha - FrontEnd/Responsavel pela organização e esquematizaçao do projeto
-- Gustavo Henrique - Lider/ auxilia e gerencia a esquematizaçao do projeto
-- [Nome do Membro n] - [Papel/Responsabilidade]
+- Gustavo Henrique - Lider/Auxilia e gerencia a esquematizaçao do projeto
+- Felipe Stuque - Auxiliar Backend
+- Kauã Braga - Auxiliar Frontend
+- Gabriel Mesquita - Auxiliar Geral
 
 ## Tecnologias Utilizadas
 
