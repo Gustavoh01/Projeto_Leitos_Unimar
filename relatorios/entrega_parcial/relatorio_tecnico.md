@@ -4,9 +4,12 @@
 **Versão:** 1.0  
 **Equipe:**
 
-- [Nome do Membro 1] - [Papel/Responsabilidade]  
-- [Nome do Membro 2] - [Papel/Responsabilidade]  
-- [Nome do Membro n] - [Papel/Responsabilidade]  
+- Davi Lucas - Backend/Responsavel pelas mudanças do sistema
+- Ruan Padilha - FrontEnd/Responsavel pela organização e esquematizaçao do projeto
+- Gustavo Henrique - Lider/Auxilia e gerencia a esquematizaçao do projeto
+- Felipe Stuque - Auxiliar Backend
+- Kauã Braga - Auxiliar Frontend
+- Gabriel Mesquita - Auxiliar Geral
 
 ## 1. Resumo Executivo
 
