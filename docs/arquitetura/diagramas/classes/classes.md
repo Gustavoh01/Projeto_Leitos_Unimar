@@ -60,3 +60,30 @@ classDiagram
       +Consultar()
     }
 ```
+
+
+```mermaid
+classDiagram
+        Apresentacao <|-- Aplicacao
+        Aplicacao <|-- Camada_Dados
+        Camada_Dados <|-- Banco_Dados_Relacional
+        Camada_Dados <|--  Banco_Dados_SQL
+        class Apresentacao {
+          +String UI/UX
+        }
+        class Aplicacao {
+          +String Logica de Aplicacao
+        }
+        class Camada_Dados {
+          +String Obter Dados
+        }
+
+           class Banco_Dados_Relacional{
+        }
+
+           class Banco_Dados_SQL {
+          +String Opcional
+        }
+
+
+```
