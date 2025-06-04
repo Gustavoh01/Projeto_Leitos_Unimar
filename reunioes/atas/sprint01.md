@@ -20,15 +20,15 @@
 
 ## 2. Discussões
 
-### 2.1 [Item 1 da pauta]
+### 2.1 
 
 Aonde,Como Iriamos definir como prototipar
 
-### 2.2 [Item 2 da pauta]
+### 2.2 
 
 Qual tipo de esquema/padronizaçao iriamos definir
 
-### 2.n [Item n da pauta]
+### 2.3
 
 Tipo de modelo arquitetural iriamos utilizar
 
