@@ -1,4 +1,4 @@
-# Ata de Reunião - Sprint XX
+# Ata de Reunião - Sprint 01
 
 **Data:** 28/04/2025
 **Horário:** HH:MM - HH:MM
