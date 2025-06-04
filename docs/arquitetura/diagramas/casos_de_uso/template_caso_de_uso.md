@@ -1,16 +1,3 @@
-+Remover()
-    }
-    class Medico{
-      +String Nome
-      +int Idade
-      +int Genero
-      +String Especialidade
-      +Float Turno
-      +Consultar()
-    }
-    class Adiministrador{ 
-        +String Nome# Caso de Uso: CU001
-
 ## Nome
 
 Casos de Uso Leito Unimar
