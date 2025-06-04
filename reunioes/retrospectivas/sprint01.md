@@ -1,13 +1,15 @@
-# Retrospectiva - Sprint XX
+# Retrospectiva - Sprint 01
 
 **Data:** 07/05/2025
 **Horário:** HH:MM - HH:MM
 **Local:** [Local/Plataforma]
 **Participantes:**
-
 - Davi Lucas
 - Gustavo Henrique
 - Ruan Padilha
+- Gabriel Mesquita
+- Felipe Stuque
+- Kauã Braga
 
 ## 1. O que funcionou bem?
 
