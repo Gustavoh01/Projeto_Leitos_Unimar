@@ -4,8 +4,8 @@
 
 | Data       | Versão | Descrição                | Autor  |
 | ---------- | ------ | ------------------------ | ------ |
-| 03/06/2025 | 1.0    | Versão inicial           | [Gustavo] |
-| 05/06/2025 | 1.1    | Adição de casos de teste e métricas | [Ruan] |
+| 03/06/2025 | 1.0    | Versão inicial           | Gustavo |
+| 05/06/2025 | 1.1    | Adição de casos de teste e métricas | Ruan |
 
 ## 1. Introdução
 
