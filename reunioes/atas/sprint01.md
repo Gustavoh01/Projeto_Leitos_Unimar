@@ -7,7 +7,10 @@
 
 - Davi Lucas
 - Gustavo Henrique
-- Ruan Padilha  
+- Ruan Padilha
+- Kauã Braga
+- Felipe Stuque
+- Gabriel Mesquita
 
 ## 1. Pauta
 
