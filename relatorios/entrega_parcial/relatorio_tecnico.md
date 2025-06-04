@@ -130,6 +130,7 @@ classDiagram
 ### 4.4 Protótipos
 
 *(Protótipos de interface em desenvolvimento, utilizando conceitos de usabilidade e clareza visual.)*
+(https://www.figma.com/design/P2PxSooPLkWKxN4GvndRej/ProjetoLeito?node-id=0-1&t=xc39GzfSNPcGiwiY-1)
 
 ## 5. Implementação Atual
 
